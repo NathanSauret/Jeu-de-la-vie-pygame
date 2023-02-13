@@ -2,7 +2,7 @@
 ## Bibliothèque
 Nécessite l’installation des bibliothèques suivantes : 
 - pygame
-  
+<br>
 Les documentations :
 - [pygame](https://pypi.org/project/pygame/)
 
