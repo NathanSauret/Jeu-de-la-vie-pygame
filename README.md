@@ -17,3 +17,5 @@ Dans le menu vous pourrez regarder les contrôles en bas à gauche, jouer ou qui
 En début de jeu, cliquez sur les cases pour les remplir et ainsi définir la situation initiale du jeu de la vie.  
 Appuyez sur le bouton play en bas de l'écran pour commencer la simulation.  
 Un bouton pause est dusponible en bas de l'écran pour stopper la simulation, vous aurez alors accès aux commandes pour revenir en arrière d'un tour, aller en avant d'un tour ou relancer la simulation.  
+
+![](exemple.gif)
